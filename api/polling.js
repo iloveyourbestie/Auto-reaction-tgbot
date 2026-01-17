@@ -1,0 +1,1 @@
+import {bot} from './bot-handler.js'; bot.launch(); console.log('Polling started');
