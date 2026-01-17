@@ -1,0 +1,10 @@
+{
+  "name":"multi-reaction-bot",
+  "type":"module",
+  "dependencies":{
+    "telegraf":"^4.16.2",
+    "pg":"^8.11.3",
+    "express":"^4.19.2",
+    "dotenv":"^17.2.3"
+  }
+}
