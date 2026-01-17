@@ -1,0 +1,1 @@
+export const STEPS=['emoji','distribution','count','delay','views','confirm'];
