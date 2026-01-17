@@ -1,0 +1,1 @@
+export const isOwner=ctx=>ctx.from?.id===Number(process.env.OWNER_ID);
